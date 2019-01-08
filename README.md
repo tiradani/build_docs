@@ -68,7 +68,9 @@ coupled with an add-on called `asciidoctor-mathematical` [2] allows you to
 embed latex math equations in your document and produce high quality PDFs.  As a
 bonus, when you install the extension, asciidoctor gets installed as a
 dependency.
+
 [1] https://asciidoctor.org/docs/asciidoctor-pdf/#install-the-published-gem)
+
 [2] https://github.com/asciidoctor/asciidoctor-mathematical)
 
 ```bash
