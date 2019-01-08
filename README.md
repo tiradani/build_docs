@@ -30,8 +30,11 @@ not being continued.  It remains available and is quite capable.
 
 ### Scripts
 `asciidocs/build_scripts/a2h` Converts an asciidoc document to html (Functional)
+
 `asciidocs/build_scripts/a2o` Converts an asciidoc document to an ODT document (Functional)
+
 `asciidocs/build_scripts/a2p` Converts an asciidoc document to a PDF (Functional)
+
 `asciidocs/build_scripts/a2w` Converts an asciidoc document to a word document (No templates possible)
 
 ### Templates
@@ -74,10 +77,12 @@ gem install asciidoctor-mathematical
 ```
 
 ### Scripts
-These helper scripts
 `asciidoctor/build_scripts/a2h` Converts an asciidoc document to html (Not implemented yet)
+
 `asciidoctor/build_scripts/a2o` Converts an asciidoc document to an ODT document (Functional)
+
 `asciidoctor/build_scripts/a2p` Converts an asciidoc document to a PDF (No templates yet)
+
 `asciidoctor/build_scripts/a2w` Converts an asciidoc document to a word document (No templates possible)
 
 ### Templates
